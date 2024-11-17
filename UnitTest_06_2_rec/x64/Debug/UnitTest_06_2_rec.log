@@ -1,0 +1,5 @@
+﻿  UnitTest_06_2_rec.cpp
+C:\Users\MaX\source\repos\Lab_06_2_rec\UnitTest_06_2_rec\UnitTest_06_2_rec.cpp(17,20): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/UnitTest_06_2_rec.cpp")
+  
+  UnitTest_06_2_rec.vcxproj -> C:\Users\MaX\source\repos\Lab_06_2_rec\x64\Debug\UnitTest_06_2_rec.dll
